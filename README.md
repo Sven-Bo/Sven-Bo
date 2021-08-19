@@ -6,6 +6,14 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
 
+On my YouTube channel I am creating tutorials for people who:
+•	… are looking for a way to leverage the power of Python in their day-to-day work.
+•	… are struggling with repetitive tasks in Excel and are looking for a way to use Python and VBA.
+•	… want to learn Data Analysis & Data Science to perform meaningful and impactful analyses.
+•	… are working with Excel and found themselves thinking - "there has to be a better way."
+
+If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/codingisfun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingisfun" height="30" width="40" /></a>
