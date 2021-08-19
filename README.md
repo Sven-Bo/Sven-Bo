@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sven - A Data Analyst From Germany</h1>
 
-<h3 align="center">I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings</h3>
+<h2 align="center">I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings</h3>
 
 - 📺 I regularly post Python&VBA tutorials on YouTube [https://youtube.com/c/CodingIsFun](https://youtube.com/c/CodingIsFun)
 
@@ -20,4 +20,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/codingisfun"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="codingisfun" /></a></p><br><br>
+
+![Dino](https://raw.githubusercontent.com/sven-bo/sven-bo/master/dino.gif)
 
