@@ -4,6 +4,8 @@
 
 <h2 align="center">I am passionate about finding ways to use Python and VBA to be more efficient and effective in business settings</h3>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+
 - 📺 I regularly post Python&VBA tutorials on YouTube [https://youtube.com/c/CodingIsFun](https://youtube.com/c/CodingIsFun)
 
 - 📫 How to reach me **contact@pythonandvba.com**
