@@ -1,6 +1,6 @@
 [![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/banner_crop.png)](https://youtube.com/c/codingisfun)
 
-<h1 align="center">Hi 👋, I'm Sven</h1>
+<h1 align="center">Hi 👋, I'm Sven</h1> <img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" />
 <h3 align="center">A Data Analyst From Germany</h3>
 
 - 📺 I regularly post Python&VBA tutorials on YouTube [https://youtube.com/c/CodingIsFun](https://youtube.com/c/CodingIsFun)
