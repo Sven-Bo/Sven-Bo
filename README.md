@@ -1,3 +1,5 @@
+[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/banner.png)](https://youtube.com/c/codingisfun)
+
 <h1 align="center">Hi 👋, I'm Sven</h1>
 <h3 align="center">A Data Analyst From Germany</h3>
 
