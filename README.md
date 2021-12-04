@@ -16,7 +16,7 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 <h3 align="left">Wanna boost your MS Excel Productivity?</h3>
 <p align="left">🚀 Supercharge Excel with my free Excel Add-in
 <a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank">CLICK HERE</a>
-<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://pythonandvba.com/wp-content/uploads/2021/11/Ribbon_MyToolBelt.png" alt="codingisfun" height="60" width="870" /></a>
+<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://pythonandvba.com/wp-content/uploads/2021/11/Ribbon_MyToolBelt.png" alt="codingisfun"/></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
