@@ -14,6 +14,7 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 
 
 <h3 align="left">Wanna boost your MS Excel Productivity?</h3>
+Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Automate Some Of The Tedious Tasks In Excel.
 <p align="left">🚀 Supercharge Excel with my free Excel Add-in
 <a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank">CLICK HERE</a>
 <a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://pythonandvba.com/wp-content/uploads/2021/11/Ribbon_MyToolBelt.png" alt="codingisfun"/></a>
