@@ -13,8 +13,7 @@ On my YouTube channel I am creating tutorials for people who:
 If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
 
 
-<h3 align="left">Wanna boost your MS Excel Productivity?</h3>
-🚀 <b>Supercharge Excel with my free Excel Add-in</b><br>
+<h3 align="left">🚀 Wanna boost your MS Excel Productivity? Supercharge Excel with my free Excel Add-in!</h3>
 Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Automate Some Of The Tedious Tasks In Excel.
 <p align="left">Get it here:
 <a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank">CLICK ME</a>
