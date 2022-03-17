@@ -1,4 +1,4 @@
-[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/banner_crop.png)](https://youtube.com/c/codingisfun)
+[![MastHead](https://raw.githubusercontent.com/sven-bo/sven-bo/master/codingisfun_banner.png)](https://youtube.com/c/codingisfun)
 
 <h1 align="center">Hi 👋, I'm Sven - A Data Analyst From Germany</h1>
 
