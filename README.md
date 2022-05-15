@@ -17,7 +17,7 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Automate Some Of The Tedious Tasks In Excel.
 <p align="left">Get it here:
 <a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank">CLICK ME</a>
-<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://pythonandvba.com/wp-content/uploads/2021/11/Ribbon_MyToolBelt.png" alt="codingisfun"/></a>
+<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://www.pythonandvba.com/wp-content/uploads/2022/05/ToolBelt_v3.jpg" alt="codingisfun"/></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
