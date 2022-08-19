@@ -40,4 +40,4 @@ Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Auto
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
 
-![snake gif](https://github.com/Sven-Bo/Sven-Bo/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Sven-Bo/Sven-Bo/blob/output/github-contribution-grid-snake.svg)
