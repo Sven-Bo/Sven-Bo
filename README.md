@@ -20,7 +20,11 @@ Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Auto
 <a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://www.pythonandvba.com/wp-content/uploads/2022/05/ToolBelt_v3.jpg" alt="codingisfun"/></a>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven-darkmode.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
+  <img align="right" alt="Mini Sven GIF" width="400" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
+</picture>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
