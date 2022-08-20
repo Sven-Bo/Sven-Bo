@@ -15,12 +15,12 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 
 <h3 align="left">🚀 Wanna boost your MS Excel Productivity? Supercharge Excel with my free Excel Add-in!</h3>
 Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Automate Some Of The Tedious Tasks In Excel.
-<p align="left">Get it here:
-<a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank">CLICK ME</a>
-<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mytoolbelt.png" alt="MyToolBelt Add-In"/></a>
+<p align="left">👉<strong>Get it here:<strong>
+<a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank"><strong>CLICK ME</strong></a>
+<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://github.com/Sven-Bo/Sven-Bo/blob/master/mytoolbelt.png?raw=true" alt="MyToolBelt Add-In"/></a>
 </p>
 
-<br/>
+<hr class="solid">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven-darkmode.gif">
@@ -40,6 +40,15 @@ Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Auto
 <h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/vba.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
-
 ![Snake animation](https://github.com/Sven-Bo/Sven-Bo/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center">
+  <a href="https://ko-fi.com/X7X47Q0EG">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://storage.ko-fi.com/cdn/brandasset/kofi_bg_tag_dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png">
+      <img alt="Support Me On Kofi" width="150" src="https://storage.ko-fi.com/cdn/brandasset/kofi_s_tag_white.png">
+    </picture>
+  </a>
+</p>
+
