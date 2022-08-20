@@ -17,8 +17,10 @@ If this sounds interesting to you, consider subscribing and turning on the notif
 Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Automate Some Of The Tedious Tasks In Excel.
 <p align="left">Get it here:
 <a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank">CLICK ME</a>
-<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://www.pythonandvba.com/wp-content/uploads/2022/05/ToolBelt_v3.jpg" alt="codingisfun"/></a>
+<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mytoolbelt.png" alt="MyToolBelt Add-In"/></a>
 </p>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven-darkmode.gif">
@@ -35,7 +37,7 @@ Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Auto
 
 📫 How to reach me **contact@pythonandvba.com**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://docs.microsoft.com/en-us/office/vba/api/overview/" target="_blank"> <img src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/vba.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X47Q0EG)
