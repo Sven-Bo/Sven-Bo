@@ -33,6 +33,7 @@ Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Auto
 <a href="https://www.youtube.com/c/codingisfun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingisfun" height="30" width="40" /></a>
 <a href="https://discord.gg/Tgwew3fr" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tgwew3fr" height="30" width="40" /></a>
 <a href="https://pythonandvba.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/website.svg" alt="pythonandvba.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sven-bosau" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sven-bosau" height="30" width="40" /></a>
 </p>
 
 📫 How to reach me **contact@pythonandvba.com**
