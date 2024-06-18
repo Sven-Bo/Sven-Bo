@@ -12,13 +12,16 @@ On my YouTube channel I am creating tutorials for people who:
 
 If this sounds interesting to you, consider subscribing and turning on the notifications, so you don’t miss any content.
 
+<hr class="solid">
+<h3> 🤓 Check Out My Excel Add-ins</h3>
+I've developed some handy Excel add-ins that you might find useful:
 
-<h3 align="left">🚀 Wanna boost your MS Excel Productivity? Supercharge Excel with my free Excel Add-in!</h3>
-Expand Excel’s Capabilities, Create Python Scripts Right Inside Excel And Automate Some Of The Tedious Tasks In Excel.
-<p align="left">👉<strong>Get it here:<strong>
-<a href="https://www.pythonandvba.com/mytoolbelt" title="Go to https://www.pythonandvba.com/mytoolbelt" target="_blank"><strong>CLICK ME</strong></a>
-<a href="https://www.pythonandvba.com/mytoolbelt" target="_blank"><img align="center" src="https://github.com/Sven-Bo/Sven-Bo/blob/master/mytoolbelt.png?raw=true" alt="MyToolBelt Add-In"/></a>
-</p>
+- 📊 **[Dashboard Add-in](https://pythonandvba.com/grafly)**: Easily create interactive and visually appealing dashboards.
+- 🤪 **[Emoji Add-in](https://pythonandvba.com/emojify)**: Add a touch of fun to your spreadsheets with emojis.
+- 🛠️ **[MyToolBelt Add-in](https://pythonandvba.com/mytoolbelt)**: A versatile toolbelt for Excel, featuring:
+  - Creation of Pandas DataFrames and Jupyter Notebooks from Excel ranges
+  - ChatGPT integration for advanced data analysis
+  - And much more!
 
 <hr class="solid">
 
