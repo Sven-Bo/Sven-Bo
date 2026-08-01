@@ -25,6 +25,12 @@ I create tools and templates to help you work smarter with Excel:
 
 ---
 
+### Learn Excel Automation
+
+Want to go from Excel user to automation pro? My [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches Python for Excel users from zero: xlwings, pandas and real projects.
+
+---
+
 ### Free Tutorials
 
 On my YouTube channel, I share tutorials on Excel automation, Python, and VBA.
