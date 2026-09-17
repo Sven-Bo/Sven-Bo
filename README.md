@@ -5,17 +5,13 @@
   </picture>
 </a>
 
-<p align="center">
-  <a href="https://www.youtube.com/@codingisfun"><img src="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/youtube.svg" alt="YouTube" width="24" height="17"> youtube.com/@codingisfun</a>
-</p>
-
 ## Hi, I'm Sven 👋
 
 I help you make work easier with Python, Excel and AI. I build desktop apps, Excel add-ins and free tools, and share what I learn through practical tutorials.
 
 ### Code from my tutorials
 
-You'll find code and examples from my [Coding Is Fun YouTube channel](https://www.youtube.com/@CodingIsFun) here:
+You'll find code and examples from my <a href="https://www.youtube.com/@codingisfun"><img src="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/youtube.svg" alt="" width="20" height="14"> Coding Is Fun YouTube channel</a> here:
 
 - Automate Excel workflows and everyday tasks with Python and VBA
 - Build dashboards, reports and small apps
