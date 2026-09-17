@@ -1,48 +1,40 @@
-[![Banner](https://raw.githubusercontent.com/sven-bo/sven-bo/master/PythonAndVBA_Banner.png)](https://pythonandvba.com)
+<a href="https://pythonandvba.com/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/github-banner-dark.png">
+    <img src="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/github-banner-light.png" alt="Sven Bosau — Tools that save time. Python, Excel and AI. pythonandvba.com" width="1200">
+  </picture>
+</a>
 
-## Hi 👋 I'm Sven Bosau
+## Hi, I'm Sven 👋
 
-I build Excel solutions to help professionals and small businesses work smarter with Python and VBA.
+I help you make work easier with Python, Excel and AI. I build desktop apps, Excel add-ins and free tools, and share what I learn through practical tutorials.
 
----
+### Code from my tutorials
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven-darkmode.gif">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
-  <img align="right" alt="Mini Sven GIF" width="400" src="https://raw.githubusercontent.com/sven-bo/sven-bo/master/mini-sven.gif">
-</picture>
+You'll find code and examples from my [Coding Is Fun YouTube channel](https://www.youtube.com/@CodingIsFun) here:
 
-### What I Do
+- Automate Excel workflows and everyday tasks with Python and VBA
+- Build dashboards, reports and small apps
+- Use AI to help you write code and work with data
 
-I create tools and templates to help you work smarter with Excel:
+I explain projects step by step so you can follow along and use what you learn in your own work.
 
-- **Messaging** — Send SMS, WhatsApp & emails directly from Excel
-- **Logistics** — Calculate distances, travel times & optimize routes
-- **Document Export** — Generate Word, PDF & PowerPoint from Excel data
-- **Excel Add-ins** — Dashboards, AI integration, charts & more
+### Tools that save time
 
-**[View all solutions →](https://pythonandvba.com/solutions)**
+At [Python & VBA](https://pythonandvba.com/), I build tools for messaging, route planning, document conversion and working with Excel.
 
----
+**[Explore my apps and Excel add-ins →](https://pythonandvba.com/solutions)**
 
 ### Learn Excel Automation
 
-Want to go from Excel user to automation pro? My [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) teaches Python for Excel users from zero: xlwings, pandas and real projects.
-
----
-
-### Free Tutorials
-
-On my YouTube channel, I share tutorials on Excel automation, Python, and VBA.
-
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/c/CodingIsFun)
+My [Excel Automation Course](https://pythonandvba.com/excel-automation-course/) shows you how to automate Excel tasks with Python, step by step.
 
 ---
 
 ### Connect
 
 - **Website:** [pythonandvba.com](https://pythonandvba.com)
-- **YouTube:** [CodingIsFun](https://youtube.com/c/CodingIsFun)
+- **YouTube:** [Coding Is Fun](https://www.youtube.com/@CodingIsFun)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in touch](https://pythonandvba.com/contact)
 
