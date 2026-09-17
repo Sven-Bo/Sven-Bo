@@ -1,9 +1,13 @@
 <a href="https://pythonandvba.com/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/github-banner-dark.png">
-    <img src="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/github-banner-light.png" alt="Sven Bosau — Tools that save time. Python, Excel and AI. pythonandvba.com" width="1200">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/github-banner-dark.png?v=2">
+    <img src="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/github-banner-light.png?v=2" alt="Sven Bosau — Tools that save time. Python, Excel and AI. pythonandvba.com · youtube.com/@codingisfun" width="1200">
   </picture>
 </a>
+
+<p align="center">
+  <a href="https://www.youtube.com/@codingisfun"><img src="https://raw.githubusercontent.com/Sven-Bo/Sven-Bo/master/assets/youtube.svg" alt="YouTube" width="24" height="17"> youtube.com/@codingisfun</a>
+</p>
 
 ## Hi, I'm Sven 👋
 
