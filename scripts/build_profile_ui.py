@@ -66,17 +66,17 @@ def icon(parent, kind, x, y, color):
         add(group, 'rect', x=1, y=4, width=22, height=16, rx=3, fill='none', stroke=color, **{'stroke-width': 1.6})
         add(group, 'path', d='M2 6L12 13L22 6', fill='none', stroke=color, **{'stroke-width': 1.6, 'stroke-linejoin': 'round'})
     elif kind == 'support':
-        add(group, 'path', d='M12 21L3.5 12.5C-2 6.5 6 0.5 12 6C18 0.5 26 6.5 20.5 12.5Z',
-            fill='none', stroke=color, **{'stroke-width': 1.8, 'stroke-linejoin': 'round'})
+        add(group, 'path', d='M3 7H17V16A4 4 0 0 1 13 20H7A4 4 0 0 1 3 16ZM17 8H19A4 4 0 0 1 19 16H17M2 23H21M7 1V4M12 1V4',
+            fill='none', stroke=color, **{'stroke-width': 1.7, 'stroke-linecap': 'round', 'stroke-linejoin': 'round'})
 
 
 def button(name, label, width, theme='light', small=False):
     dark = theme == 'dark'
     height = 48 if small else 62
     primary = name == 'apps'
-    ink = '#202a36' if primary else ('#e8f0f7' if dark else '#294f6e')
-    fill = '#ffdc03' if primary else ('#1a2734' if dark else '#f6f9fc')
-    stroke = '#ffdc03' if primary else ('#3b5062' if dark else '#d5e1eb')
+    ink = '#ffffff' if primary else ('#e8f0f7' if dark else '#294f6e')
+    fill = '#3772a3' if primary else ('#1a2734' if dark else '#f6f9fc')
+    stroke = '#3772a3' if primary else ('#3b5062' if dark else '#d5e1eb')
     svg = ET.Element(f'{{{NS}}}svg', {'width': str(width), 'height': str(height),
                                     'viewBox': f'0 0 {width} {height}', 'role': 'img', 'aria-label': label})
     add(svg, 'title').text = label
@@ -87,7 +87,7 @@ def button(name, label, width, theme='light', small=False):
     add(svg, 'rect', x=2, y=2, width=width-4, height=height-10, rx=11 if not small else 9,
         fill=fill, stroke=stroke, **{'stroke-width': 3 if primary else 1})
     if not small:
-        add(svg, 'path', d=f'M15 4H{width-15}', stroke='#fff', opacity='.4' if primary else '.09')
+        add(svg, 'path', d=f'M15 4H{width-15}', stroke='#fff', opacity='.2' if primary else '.09')
     center = (height-6)/2
     icon_x = 14 if small else 18
     icon(svg, name, icon_x, center-12, ink if primary else ('#93c4eb' if dark else '#3772a3'))
